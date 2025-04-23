@@ -1,0 +1,9 @@
+{
+  "build": {
+    "env": {
+      "PORT": "8080"
+    }
+  }
+}
+
+add railway config
