@@ -1,9 +1,7 @@
 {
   "build": {
     "env": {
-      "PORT": "8080"
+      "NODE_ENV": "production"
     }
   }
 }
-
-add railway config
